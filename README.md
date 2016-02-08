@@ -1,7 +1,7 @@
-### Tuts+ Tutorial: Getting Started With Push Notifications on Android
+### Envato Tuts+ Tutorial: How to Get Started With Push Notifications On Android
 
 #### Instructor: Hathibelagal Ashraff
 
-Using push notifications is a great way to re-engage your users. In this tutorial, you will learn how to use the Google Cloud Messaging service to create a server-side Python script which can generate and send such notifications, and an Android app which can receive them.
+Using push notifications is a great way to re-engage your application's users. In this tutorial, you learn how to use the Google Cloud Messaging service to create a server-side Python script that can generate and send push notifications, and an Android app that can receive them.
 
-Source files for the Tuts+ Tutorial: [Getting Started With Push Notifications on Android](http://code.tutsplus.com/tutorials/getting-started-with-push-notifications-for-android--cms-25870)
+Source files for the Envato Tuts+ tutorial: [How to Get Started With Push Notifications On Android](http://code.tutsplus.com/tutorials/how-to-get-started-with-push-notifications-on-android--cms-25870)
